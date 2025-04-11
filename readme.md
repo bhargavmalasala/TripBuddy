@@ -6,13 +6,6 @@ email: tzbhargav@gmail.com
 
 #Teammate2
 
-name: 
+name: Durgesh
 
-email:
-
-
-#Teammate 3
-
-name: 
-
-email:
+email: durgesh1812b@gmail.com
