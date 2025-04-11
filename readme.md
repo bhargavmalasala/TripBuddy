@@ -1,8 +1,8 @@
-#Teammate1. 
+#Teammate1
 
-name: Bhargav.
+name: Bhargav
 
-email: tzbhargav@gmail.com.
+email: tzbhargav@gmail.com
 
 #Teammate2
 
